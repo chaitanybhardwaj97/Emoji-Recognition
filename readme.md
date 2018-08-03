@@ -29,13 +29,10 @@ If you face any problem, kindly raise an issue
 4) If you want to train the model, run 'TrainEmojinator.py'
 5) Finally, run `Emojinator.py` for testing your model via webcam.
 
-### Contributors
 
-##### 1) Akshay Bahadur
-##### 2) Raghav Patnecha
  
  
-<img src="https://github.com/akshaybahadur21/Emojinator/blob/master/emo.gif">
+<img src=
 
 
 
