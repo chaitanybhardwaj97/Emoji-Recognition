@@ -33,6 +33,8 @@ If you face any problem, kindly raise an issue
  
  
 <img src="https://github.com/chaitanybhardwaj97/Emoji-Recognition/blob/master/Screenshot%20(37).png">
+<img src="https://github.com/chaitanybhardwaj97/Emoji-Recognition/blob/master/IMG-20180803-WA0020.jpeg">
+
 
 
 
